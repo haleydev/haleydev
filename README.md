@@ -3,4 +3,4 @@
 </p>
 
 # Olá! eu sou Warley Rodrigues
-<p>Sou um desenvolvedor web front e back-end com PHP, <a target="blank" href="https://warleyrodrigues.net">veja meu portfólio!</a></p>
+<p>Sou um desenvolvedor web front e back-end com PHP, veja meu <a target="blank" href="https://warleyrodrigues.net">portfólio</a>!</p>
