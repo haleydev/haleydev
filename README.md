@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/88275533/162131427-921d8286-7901-4d5b-aafe-a0353c5a6bec.png" alt='my' />
+</p>
 
-<!--
-**haleydev/haleydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! eu sou Warley Rodrigues
+<p>Sou um desenvolvedor web, <a target="blank" href="https://warleyrodrigues.net">veja meu portfólio!</a></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/warleyrodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warleyrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warleyrodrigues&layout=compact&langs_count=7&theme=dark"/>
+</div>
