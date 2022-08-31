@@ -3,5 +3,16 @@
 </p>
 
 ```PHP
-$users = Capsule::table('users')->where('votes', '>', 100)->get();
+<?php
+
+class Readme {
+    public string $name = 'Warley Rodrigues';
+   
+   /**
+     * @return string
+     */
+    public function my() {
+        return 'PHP developer 3 years experience';
+    {
+}
 ```
