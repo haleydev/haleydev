@@ -5,7 +5,8 @@
 ```PHP
 <?php
 
-class Readme {
+class Readme 
+{
     public string $name = 'Warley Rodrigues';
    
     /**
