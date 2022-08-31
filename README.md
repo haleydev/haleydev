@@ -8,10 +8,11 @@
 class Readme {
     public string $name = 'Warley Rodrigues';
    
-   /**
+    /**
      * @return string
      */
-    public function my() {
+    public function my() 
+    {
         return 'PHP developer 3 years experience';
     {
 }
